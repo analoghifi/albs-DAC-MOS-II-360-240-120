@@ -33,4 +33,27 @@ using lateral MOSFETs
 * The large ground planes as well as the double-guided wide + and - supply voltage conductor tracks enable subsequent enlargement of the conductor track cross-sections as a modification by means of tin-plated cut-outs.  
 * Additional modification options: All 4 supply voltages (±/+VTS/-VTS) are blocked against ground with MKP capacitors (min. 4.7µF) on the solder side of the module.  
 * Practical 5-pole Nf connector for all control variants.  
-* For active concepts, bridge or stereo power amplifiers, the ± and ground connections can be electrically connected with spacer bolts when the modules are arranged one above the other and thus mechanically fixed.
+* For active concepts, bridge or stereo power amplifiers, the ± and ground connections can be electrically connected with spacer bolts when the modules are arranged one above the other and thus mechanically fixed.  
+
+----
+
+### used lateral MOSFETs:  
+first generation: Hitachi 2SK135 / 2SJ50 (160V / 7A)  
+second generation: Semelab BUZ900 / BUZ905 (160V / 8A)  
+second generation "HV"-versions: Semelab BUZ901 / BUZ906 (200V / 8A)  
+third generation: Exicon ECF10N20 / ECF10P20 (200V / 8A)  
+
+----
+
+## Pictures:
+#### first generation:  
+<img src="/Pics/old/albs_DAC-MOS_II_2SK135_top_BW.jpg">  
+  
+  
+#### second generation:   
+<img src="/Pics/old/Albs_DAC-MOS_360__BUZ900_5.jpg">
+  
+  
+#### third generation:   
+<img src="/Pics/Albs_DAC-MOS_360__Exicon_2.jpg">
+
