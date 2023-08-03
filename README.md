@@ -3,8 +3,9 @@
 
 albs DAC-MOS-II audio power amplifier module (mono single channel)  
 using lateral MOSFETs
-* Balanced and unbalanced signal processing of preamplifiers, mixers and crossovers possible.  
-* With balanced and unbalanced bridge circuits, multiple power and double slew rate can be achieved without additional circuits.  
+* Balanced audio input (unbalanced input possible as well)  
+* fully DC-coupled  
+* Bridge Mode (BTL) possible (using two modules) resulting in multiple power and double slew rate, no matter if a balanced or unbalanced input is used (without the need of additional circuits)  
 * With inverting control via input B, a control circuit for loudspeakers is possible.  
 * 6dB-filters (CHA,CHB,CTA,CTB) can be used as crossover for tweeter, woofer or midrange. This means that no additional crossover is required to activate loudspeaker cabinets with 1st order filters.  
 * A mono mixer amplifier can be realised via inputs B and C (e.g. as a final stage for mono sub-bass).  
