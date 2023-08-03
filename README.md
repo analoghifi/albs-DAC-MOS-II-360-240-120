@@ -6,7 +6,7 @@ using lateral MOSFETs
 * Balanced audio input (unbalanced input possible as well)  
 * fully DC-coupled  
 * Bridge Mode (BTL) possible (using two modules) resulting in multiple power and double slew rate, no matter if a balanced or unbalanced input is used (without the need of additional circuits)  
-* With inverting control via input B, a control circuit for loudspeakers is possible.  
+* With inverting control via input B, an active control circuit (feedback) for loudspeakers is possible.  
 * 6dB-filters (CHA,CHB,CTA,CTB) can be used as crossover for tweeter, woofer or midrange. This means that no additional crossover is required to activate loudspeaker cabinets with 1st order filters.  
 * A mono mixer amplifier can be realised via inputs B and C (e.g. as a final stage for mono sub-bass).  
 * With the resistor RVU any gain from 0 to +3.6dB can be set. (With unbalanced control via input A, B connected to M).  
