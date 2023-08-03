@@ -7,10 +7,10 @@ using lateral MOSFETs
 * fully DC-coupled  
 * Bridge Mode (BTL) possible (using two modules) resulting in multiple power and double slew rate, no matter if a balanced or unbalanced input is used (without the need of additional circuits)  
 * With inverting control via input B, an active control circuit (feedback) for loudspeakers is possible.  
-* 6dB-filters (CHA,CHB,CTA,CTB) can be used as crossover for tweeter, woofer or midrange. This means that no additional crossover is required to activate loudspeaker cabinets with 1st order filters.  
+* 6dB-filters (C<sub>HA</sub>, C<sub>HB</sub>, C<sub>TA</sub>, C<sub>TB</sub>) can be used as crossover for tweeter, woofer or midrange. This means that no additional crossover is required to activate loudspeaker cabinets with 1st order filters.  
 * A mono mixer amplifier can be realised via inputs B and C (e.g. as a final stage for mono sub-bass).  
-* With the resistor RVU any gain from 0 to +3.6dB can be set. (With unbalanced control via input A, B connected to M).  
-* Via the resistors RVA, RVB, RVC as well as RTA and RTBC almost any input resistance can be realised. The input sensitivity of the module can also be freely selected via integrated voltage dividers. (RVA, RVB are series resistors, RTA, RTBC are divider resistors).  
+* With the resistor R<sub>VU</sub> any gain from 0 to +3.6dB can be set. (With unbalanced control via input A, B connected to M).  
+* Via the resistors R<sub>VA</sub>, R<sub>VB</sub>, R<sub>VC</sub> as well as R<sub>TA</sub> and R<sub>TBC</sub> almost any input resistance can be realised. The input sensitivity of the module can also be freely selected via integrated voltage dividers. (R<sub>VA</sub>, R<sub>VB</sub> are series resistors, R<sub>TA</sub>, R<sub>TBC</sub> are divider resistors).  
 * The preamplifier is fully balanced with a high-quality integrated circuit from Burr-Brown and is insensitive to temperature influences and mechanical shocks. It is also decoupled from the operating voltages and protected against reverse polarity.  
 * An extremely linear current mirror driver operates in Class A mode and is cooled by 2 finned heat sinks.  
 * The composite pre- and driver stage can be supplied via separate operating voltages. Since in this case the supply voltages of the pre- and driver stage are higher than those of the output stage transistors, a better modulation capability in connection with a higher signal slew rate results, while the power dissipation of the output stage transistors is reduced. The input circuit is supplied via Zener diodes.  
