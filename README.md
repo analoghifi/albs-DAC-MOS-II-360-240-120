@@ -38,10 +38,11 @@ using lateral MOSFETs
 ----
 
 ### used lateral MOSFETs:  
-first generation: Hitachi 2SK135 / 2SJ50 (160V / 7A)  
-second generation: Semelab BUZ900 / BUZ905 (160V / 8A)  
-second generation "HV"-versions: Semelab BUZ901 / BUZ906 (200V / 8A)  
-third generation: Exicon ECF10N20 / ECF10P20 (200V / 8A)  
+first generation: Hitachi 2SK135 / 2SJ50 (160V / 7A / 100W) TO-3  
+second generation: Semelab BUZ900 / BUZ905 (160V / 8A / 125W) TO-3  
+second generation "HV"-versions: Semelab BUZ901 / BUZ906 (200V / 8A / 125W) TO-3  
+third generation: Exicon ECF10N20 / ECF10P20 (200V / 8A / 125W) TO-3  
+fourth generation: Exicon ECX10N20 / ECX10P20 (200V / 8A / 125W) **TO-247  not yet released**  
 
 ----
 
