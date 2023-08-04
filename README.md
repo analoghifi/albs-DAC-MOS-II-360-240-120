@@ -70,5 +70,14 @@ fourth generation: Exicon ECX10N20 / ECX10P20 (200V / 8A / 125W) **TO-247  not y
   
   
 #### third generation:   
-<img src="/Pics/Albs_DAC-MOS_360__Exicon_2.jpg">
+<img src="/Pics/Albs_DAC-MOS_360__Exicon_2.jpg">  
+  
+----
+  
+you can still buy this modules (the third generation) on ebay (as of 2023 Aug 01):  
+* DAC-MOS II 120 -> https://www.ebay.com/itm/254110255077  
+* DAC-MOS II 240 -> https://www.ebay.com/itm/254110256450  
+* DAC-MOS II 360 -> https://www.ebay.com/itm/254110257645  
+
+or directly from the manufacturer: -> https://albs.de   
 
