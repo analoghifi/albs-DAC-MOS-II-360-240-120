@@ -1,7 +1,7 @@
 
-# albs DAC-MOS-II 360/240/120
+# albs DAC-MOS II 360/240/120
 
-albs DAC-MOS-II audio power amplifier module (mono single channel)  
+albs DAC-MOS II audio power amplifier module (mono single channel)  
 using lateral MOSFETs  
 ### Marketing-text: 
 The Mosfet amplifier modules DAC-MOS II 120/240/360, the successor models of the proven DAC-MOS series, could also benefit from the QUAD-MOS 600:  
