@@ -4,15 +4,15 @@
 albs DAC-MOS II audio power amplifier module (mono single channel)  
 using lateral MOSFETs  
 ### Marketing-text: 
-The Mosfet amplifier modules DAC-MOS II 120/240/360, the successor models of the proven DAC-MOS series, could also benefit from the [QUAD-MOS 600](https://github.com/analoghifi/albs-QUAD-MOS-600):  
+The MOSFET amplifier modules DAC-MOS II 120/240/360 (the successor models of the proven DAC-MOS series) could also benefit from the newly developed  [QUAD-MOS 600](https://github.com/analoghifi/albs-QUAD-MOS-600):  
 For example, the protection circuit, the three 16-amp output relays and the input circuitry have been completely adopted.  
 The negative feedback line, which allows a higher signal processing speed, was also based on the circuit of its big brother in a slightly modified version.  
 Of course, all 3 versions are available again, which can be used for the following applications:  
-* DAC-MOS II 120  
+* DAC-MOS II 120 (2 MOSFETs)  
 for smaller full-range power amplifiers, as well as high-frequency power amplifiers in the hi-fi sector, whereby the best sound results are achieved with load impedances greater than 6 ohms.  
-* DAC-MOS II 240  
+* DAC-MOS II 240 (4 MOSFETs)  
 for medium full-range power amplifiers, as well as mid/high range power amplifiers in the hi-fi range, whereby the best sound results are achieved with load impedances greater than 4 ohms.  
-* DAC-MOS II 360  
+* DAC-MOS II 360 (6 MOSFETs)  
 for powerful, load-stable high-end amplifiers in all frequency ranges or for the toughest PA applications.
   
 #### The features described below illustrate the high technical standard of this module series:  
