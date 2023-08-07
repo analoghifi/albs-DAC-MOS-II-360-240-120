@@ -36,7 +36,7 @@ for powerful, load-stable high-end amplifiers in all frequency ranges or for the
 * A partly completely revised, partly new protection circuit ensures immediate disconnection of the loudspeaker if internal or external faults occur. The following functions are integrated:  
     * Switch-on delay of the loudspeaker of 5 sec. to avoid switch-on noises in the loudspeaker.  
     * Immediate disconnection of the loudspeaker in case of mains failure longer than 0.3 sec. and when switching off.  
-    * Shutdown if DC voltage or extreme proportions of infrasound occur in the output signal.  
+    * Shutdown if DC voltage or extreme proportions of infrasound (subsonic) occur in the output signal.  
     * Shutdown in case of failure of any operating voltage of preamplifier, driver or output stage.  
     * Frequency-independent, delayed shutdown when a presettable output voltage is reached (power limitation).  
     * Delay-free switch-off when a presettable switch-off point is reached in the event of oscillation, extreme HF components in the output signal or clipping. (high-frequency protection).  
